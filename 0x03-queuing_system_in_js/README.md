@@ -8,7 +8,7 @@
 > * [Redis client for Node JS](https://intranet.alxswe.com/rltoken/mRftfl67BrNvl-RM5JQfUA)
 > * [Kue](https://intranet.alxswe.com/rltoken/yTC3Ci2IV2US24xJsBfMgQ) deprecated but still use in the industry
 ---
-## What you have to know about this project
+## What you have to know before you start this project
 > * How to run a Redis server on your machine
 > * How to run simple operations with the Redis client
 > * How to use a Redis client with Node JS for basic operations
